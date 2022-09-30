@@ -39,11 +39,9 @@
 		    <artifactId>spring-boot-starter-log4j2</artifactId>
 		</dependency>
 		<dependency>
-			<artifactId>com.google</artifactId>
-			<groupId>Ab</groupId>
+			<artifactId>Ab</artifactId>
+			<groupId>com.google</groupId>
 			<version>0.0.4.3</version>
-			<scope>system</scope>
-			<systemPath>C:/Users/Sankar/Downloads/chatbot/src/main/resources/lib/Ab.jar</systemPath>
 		</dependency>
 	</dependencies>
 
