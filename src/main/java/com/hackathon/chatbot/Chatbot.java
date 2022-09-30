@@ -10,7 +10,7 @@ public class Chatbot {
 	public Chatbot() {
 		String classpathStr = Chatbot.class.getClassLoader().getResource("").getPath();
 		System.out.print("test:"+classpathStr);
-		bot = new Bot("super", classpathStr);
+		bot = new Bot("super", "/root/hackathon/chatbot/src/main/resources/");
 		chatSession = new Chat(bot);
 		bot.brain.nodeStats();
 	}
