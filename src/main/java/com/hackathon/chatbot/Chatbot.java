@@ -8,7 +8,9 @@ public class Chatbot {
 	Bot bot;
 	Chat chatSession;
 	public Chatbot() {
-		bot = new Bot("super", ".\\src\\main\\resources\\");
+		String classpathStr = Chatbot.class.getClassLoader().getResource("").getPath();
+		System.out.print("test:"+classpathStr);
+		bot = new Bot("super", classpathStr);
 		chatSession = new Chat(bot);
 		bot.brain.nodeStats();
 	}
