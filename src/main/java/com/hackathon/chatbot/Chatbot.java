@@ -8,7 +8,7 @@ public class Chatbot {
 	Bot bot;
 	Chat chatSession;
 	public Chatbot() {
-		bot = new Bot("super", "./src/main/resources/");
+		bot = new Bot("super", ".\\src\\main\\resources\\");
 		chatSession = new Chat(bot);
 		bot.brain.nodeStats();
 	}
