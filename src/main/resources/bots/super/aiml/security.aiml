@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	
+	
+<category>
+<pattern>What is Security</pattern>
+
+<template>A security is a tradable financial asset. The term commonly refers to any form of financial instrument, but its legal definition varies by jurisdiction. In some countries and languages people commonly use the term "security" to refer to any form of financial instrument, even though the underlying legal and regulatory regime may not have such a broad definition. In some jurisdictions the term specifically excludes financial instruments other than equities and Fixed income instruments. In some jurisdictions it includes some instruments that are close to equities and fixed income</template>
+</category>
+
+<category>
+<pattern>Types of Securities</pattern>
+<template>Securities can be broadly categorized into two distinct types: equities and debts. However, some hybrid securities combine elements of both equities and debts.</template>
+</category>
+
+
+<category>
+<pattern>Equity Securities</pattern>
+<template>An equity security represents ownership interest held by shareholders in an entity (a company, partnership, or trust), realized in the form of shares of capital stock, which includes shares of both common and preferred stock.
+
+Holders of equity securities are typically not entitled to regular payments—although equity securities often do pay out dividends—but they are able to profit from capital gains when they sell the securities (assuming they've increased in value).
+
+Equity securities do entitle the holder to some control of the company on a pro rata basis, via voting rights. In the case of bankruptcy, they share only in residual interest after all obligations have been paid out to creditors. They are sometimes offered as payment-in-kind.</template>
+</category>
+
+
+
+<category>
+<pattern>Debt Securities</pattern>
+<template>A debt security represents borrowed money that must be repaid, with terms that stipulate the size of the loan, interest rate, and maturity or renewal date.
+
+Debt securities, which include government and corporate bonds, certificates of deposit (CDs), and collateralized securities (such as CDOs​ and CMOs​), generally entitle their holder to the regular payment of interest and repayment of principal (regardless of the issuer's performance), along with any other stipulated contractual rights (which do not include voting rights).
+
+They are typically issued for a fixed term, at the end of which they can be redeemed by the issuer. Debt securities can be secured (backed by collateral) or unsecured, and, if secured, may be contractually prioritized over other unsecured, subordinated debt in the case of a bankruptcy. </template>
+</category>
+<category>
+<pattern>Hybrid Securities</pattern>
+<template>Hybrid securities, as the name suggests, combine some of the characteristics of both debt and equity securities. Examples of hybrid securities include equity warrants (options issued by the company itself that give shareholders the right to purchase stock within a certain timeframe and at a specific price), convertible bonds (bonds that can be converted into shares of common stock in the issuing company), and preference shares (company stocks whose payments of interest, dividends, or other returns of capital can be prioritized over those of other stockholders).</template>
+</category>
+<category>
+<pattern>Derivative Securities</pattern>
+<template>A derivative is a type of financial contract whose price is determined by the value of some underlying asset, such as a stock, bond, or commodity. Among the most commonly traded derivatives are call options, which gain value if the underlying asset appreciates, and put options, which gain value when the underlying asset loses value.
+Asset-Backed Securities
+An asset-backed security represents a part of a large basket of similar assets, such as loans, leases, credit card debts, mortgages, or anything else that generates income. Over time, the cash flow from these assets is pooled and distributed among the different investors.</template>
+</category>
+
+<category>
+<pattern>How Securities Trade</pattern>
+<template>Publicly traded securities are listed on stock exchanges, where issuers can seek security listings and attract investors by ensuring a liquid and regulated market in which to trade. Informal electronic trading systems have become more common in recent years, and securities are now often traded "over-the-counter," or directly among investors either online or over the phone.
+
+An initial public offering (IPO) represents a company's first major sale of equity securities to the public. Following an IPO, any newly issued stock, while still sold in the primary market, is referred to as a secondary offering. Alternatively, securities may be offered privately to a restricted and qualified group in what is known as a private placement—an important distinction in terms of both company law and securities regulation. Sometimes companies sell stock in a combination of a public and private placement.
+
+In the secondary market, also known as the aftermarket, securities are simply transferred as assets from one investor to another: shareholders can sell their securities to other investors for cash and/or capital gain. The secondary market thus supplements the primary. The secondary market is less liquid for privately placed securities since they are not publicly tradable and can only be transferred among qualified investors.</template>
+</category>
+
+<category>
+<pattern>Investing in Securities</pattern>
+<template>The entity that creates the securities for sale is known as the issuer, and those who buy them are, of course, investors. Generally, securities represent an investment and a means by which municipalities, companies, and other commercial enterprises can raise new capital. Companies can generate a lot of money when they go public, selling stock in an initial public offering (IPO), for example.
+
+City, state, or county governments can raise funds for a particular project by floating a municipal bond issue. Depending on an institution's market demand or pricing structure, raising capital through securities can be a preferred alternative to financing through a bank loan.
+
+On the other hand, purchasing securities with borrowed money, an act known as buying on a margin is a popular investment technique. In essence, a company may deliver property rights, in the form of cash or other securities, either at inception or in default, to pay its debt or other obligation to another entity. These collateral arrangements have been growing of late, especially among institutional investors.</template>
+</category>
+<category>
+<pattern>Regulation of Securities</pattern>
+<template>In the United States, the U.S. Securities and Exchange Commission (SEC) regulates the public offer and sale of securities. 
+
+Public offerings, sales, and trades of U.S. securities must be registered and filed with the SEC's state securities departments. Self Regulatory Organizations (SROs) within the brokerage industry often take on regulatory positions as well. Examples of SROs include the National Association of Securities Dealers (NASD), and the Financial Industry Regulatory Authority (FINRA).
+
+The definition of a security offering was established by the Supreme Court in a 1946 case. In its judgment, the court derives the definition of a security based on four criteria—the existence of an investment contract, the formation of a common enterprise, a promise of profits by the issuer, and use of a third party to promote the offering.</template>
+</category>
+
+<category>
+<pattern>What Is the Difference Between Stocks and Securities?</pattern>
+<template>Stocks, or equity shares, are one type of security. Each stock share represents fractional ownership of a public corporation, which may include the right to vote for company directors or to receive a small slice of the profits. There are many other types of securities, such as bonds, derivatives, and asset-backed securities.</template>
+</category>
+</aiml>
